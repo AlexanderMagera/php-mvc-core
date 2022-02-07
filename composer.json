@@ -1,0 +1,15 @@
+{
+    "name": "alexandermagera/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Alexandermagera\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Magera",
+            "email": "alexander.magera@gmail.com"
+        }
+    ],
+    "require": {}
+}
