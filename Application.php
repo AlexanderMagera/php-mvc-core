@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace alexandermagera\phpmvc;
 
 use app\controllers\SiteController;
-use app\core\db\Database;
+use alexandermagera\phpmvc\db\Database;
 use app\models\User;
 
 class Application

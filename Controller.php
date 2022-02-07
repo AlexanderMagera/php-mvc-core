@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace alexandermagera\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use alexandermagera\phpmvc\middlewares\BaseMiddleware;
 
 abstract class Controller
 {

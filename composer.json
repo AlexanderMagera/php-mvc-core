@@ -2,7 +2,7 @@
     "name": "alexandermagera/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Alexandermagera\\PhpMvcCore\\": "src/"
+            "alexandermagera\\phpmvc\\": "./"
         }
     },
     "authors": [

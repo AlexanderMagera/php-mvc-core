@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core\db;
+namespace alexandermagera\phpmvc\db;
 
 
-use app\core\Application;
-use app\core\Model;
+use alexandermagera\phpmvc\Application;
+use alexandermagera\phpmvc\Model;
 
 abstract class DbModel extends Model
 {
